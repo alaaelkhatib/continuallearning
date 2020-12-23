@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+logs/*
+*/__pycache__/*
+data/*
+.vscode/*
